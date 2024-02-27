@@ -1,0 +1,210 @@
+*{
+    margin:0;
+    padding: 0;
+}
+html{
+    background-color: black
+}
+.htwo{
+    color: rgb(255, 255, 255);
+    margin-top: 5rem;
+    padding-left: 0rem;
+    font-size: larger;
+    font-style: oblique;
+    font-weight: bolder;
+    text-decoration: underline;
+   text-decoration-color:aqua ;
+}
+section{
+    position: relative;
+    display: flex;
+    justify-content: center
+    padding:80px 100px;
+}
+.first{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin-left: 25rem;
+}
+.wcphoto{
+    width:60vh;
+    height:50vh;
+    display: flex;
+    background-color: #111222;
+    background-image:url(https://cdn1.img.sputniknews.in/img/07e6/0c/15/184520_266:0:1934:1251_1920x0_80_0_0_b22776292a9e7aafac44f281d9dc5f3f.jpg);
+    background-size: cover;
+    border-radius: 5rem;
+    z-index: 1;
+}
+.htwo{
+    margin-bottom: 8rem;
+    margin-left: 30rem;
+    font-size:xx-large;
+}
+.bio{
+ width: 30rem;
+ background: rgba(255,255 green,255 blue,0.1 alpha);
+ color: white;
+ border-radius: 1rem;
+ font-size: large;
+ z-index: 2;
+ backdrop-filter: blur(10px);
+ transform: translate(-90px,0px);
+}
+.firstbln{
+    width: 60vh;
+    height: 50vh;
+    background-image: url(https://preview.redd.it/a496akj2cw281.jpg?width=640&crop=smart&auto=webp&s=7c093a208b32783517246fa82bb5569ec1e04a1b);
+    background-size: cover;
+    margin-top: 10rem;
+    margin-left: 35rem;
+}
+.bio1{
+    width: 30rem;
+    color : white;
+    border-radius: 1rem;
+   font-size: large;
+    z-index: 2;
+   backdrop-filter: blur(10px);
+   transform: translate(-50rem,5rem);
+}
+.secondbln{
+    width: 60vh;
+    height: 50vh;
+    background-image: url(https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltf7695f98c1f01bd9/62cbfb91c9db8842cf76cb5b/GHP_MESSI-BOOTS_16-9.jpg);
+    background-size: cover;
+    margin-left: -20rem;
+    margin-top: 10rem;
+ }
+.bio2{
+    width: 30rem;
+ background: rgba(255,255 green,255 blue,0.1 alpha);
+ color: white;
+ border-radius: 1rem;
+ font-size: large;
+ z-index: 2;
+ backdrop-filter: blur(10px);
+ transform: translate(-87px,58px);
+}
+.thirdln{
+    width: 60vh;
+    height: 50vh;
+    background-image: url(https://imgk.timesnownews.com/story/Messi-goal-Barcelona-Twitter.jpg);
+    background-size: cover;
+    margin-top: 10rem;
+    margin-left: 35rem;
+}
+.bio3{
+    width: 30rem;
+    color : white;
+    border-radius: 1rem;
+   font-size: large;
+    z-index: 2;
+   backdrop-filter: blur(10px);
+   transform: translate(-50rem,5rem);
+
+}
+.fourthln{
+    width: 60vh;
+    height: 50vh;
+    background-image: url(https://phantom-marca.unidadeditorial.es/f894cfa06881483b3f6c2c5bc224b86b/crop/0x109/2046x1257/resize/640/assets/multimedia/imagenes/2020/04/29/15881899479510.jpg);
+    background-size: cover;
+    margin-left: -20rem;
+    margin-top: 10rem;
+ }
+.bio4{
+    width: 30rem;
+    background: rgba(255,255 green,255 blue,0.1 alpha);
+    color: white;
+    border-radius: 1rem;
+    font-size: large;
+    z-index: 2;
+    backdrop-filter: blur(10px);
+    transform: translate(-80px,60px)
+}
+.fifthln{
+    width: 60vh;
+    height: 50vh;
+    background-image: url(https://www.fcbarcelona.com/fcbarcelona/photo/2019/03/12/f24f0e2d-ab55-44e2-ae18-9a886abac4bc/WPdQNgoI.jpg);
+    background-size: cover;
+    margin-top: 10rem;
+    margin-left: 35rem;
+}
+.bio5{
+    width: 30rem;
+    color : white;
+    border-radius: 1rem;
+   font-size: large;
+    z-index: 2;
+   backdrop-filter: blur(10px);
+   transform: translate(-55rem,5rem);
+}
+.sixthln{
+    width: 70vh;
+    height: 50vh;
+    background-image: url(https://www.fcbarcelona.com/fcbarcelona/photo/2018/12/30/af3778b1-69e9-4fd3-afda-37ef30cb0e63/Messi_10_reptes.jpg);
+    background-size: cover;
+    margin-left: -20rem;
+    margin-top: 10rem;
+}
+.bio6{
+    width: 25rem;
+    background: rgba(255,255 green,255 blue,0.1 alpha);
+    color: white;
+    border-radius: 1rem;
+    font-size: large;
+    z-index: 2;
+    backdrop-filter: blur(10px);
+    transform: translate(-90px,70px)
+}
+.seventhln{
+    width: 60vh;
+    height: 50vh;
+    background-image: url(https://phantom-marca.unidadeditorial.es/a59d0953dc7e5c88f47995cc674171d2/crop/0x0/659x371/f/jpg/assets/multimedia/imagenes/2020/10/23/16034074144863.jpg);
+    background-size: cover;
+    margin-top: 10rem;
+    margin-left: 35rem;
+}
+.bio7{
+    width: 30rem;
+    color : white;
+    border-radius: 1rem;
+   font-size: large;
+    z-index: 2;
+   backdrop-filter: blur(10px);
+   transform: translate(-53.5rem,5rem);
+}
+.eigthln{
+    width: 60vh;
+    height: 50vh;
+    background-image: url(https://www.kget.com/wp-content/uploads/sites/2/2023/10/AP23303785609364.jpg);
+    background-size: cover;
+    margin-left: -20rem;
+    margin-top: 10rem;
+}
+.bio8{
+    width: 30rem;
+    background: rgba(255,255 green,255 blue,0.1 alpha);
+    color: white;
+    border-radius: 1rem;
+    font-size: large;
+    z-index: 2;
+    backdrop-filter: blur(10px);
+    transform: translate(-90px,50px)
+}
+.photo{
+    width: 100vh;
+    height: 60vh;
+    background-image: url(https://preview.redd.it/lionel-messis-8th-ballon-dor-has-been-added-to-the-cabinet-v0-hota0aebvkkc1.jpeg?auto=webp&s=8e5d62e03b1eda972ff2e87d23a510d3ef084eb3);
+    background-size: cover;
+    margin-top: 10rem;
+    margin-left: 26rem;
+}
+.bio ,.bio1 ,.bio2, .bio3, .bio4, .bio5, .bio6, .bio7, .bio8{
+    font-style: italic;
+    font-weight: 600;
+
+}
